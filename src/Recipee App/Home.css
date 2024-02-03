@@ -1,0 +1,25 @@
+.HomeSec{
+    margin-top: 20px;
+
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+   overflow-x: scroll;
+   /* margin-left: 10px; */
+   text-align: center;
+   gap: 10px;
+}
+
+.HomeSec::-webkit-scrollbar{
+    display: none;
+}
+.Home{
+    width: 100%;
+    height: 50vh;
+    /* background-color: aqua; */
+}
+
+.hero{
+    background-image: url("");
+}

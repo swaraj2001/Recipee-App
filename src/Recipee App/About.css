@@ -1,0 +1,28 @@
+.aboutSec{
+    width: 100%;
+    height: auto;
+    min-height: 50vh;
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img{
+    text-align: center;
+    width: 20%;
+    font-size: large;
+    color: red;
+}
+.category{
+    height: auto;
+    width: 400px;
+}
+
+.description{
+    padding: 20px;
+    width: 70%;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 25px;
+}
